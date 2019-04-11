@@ -1,0 +1,8 @@
+**/node_modules/**
+**/components/AntComponents/**
+**/components/CleanComponents/**
+**/components/LayoutComponents/**
+**/modules/Dashboard/**
+**/modules/DefaultPages/**
+**/src/ducks/**
+*.test.js
